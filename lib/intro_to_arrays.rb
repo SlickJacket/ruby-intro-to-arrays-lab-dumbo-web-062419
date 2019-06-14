@@ -5,4 +5,5 @@ end
 
 def array_with_two_elements
   array = [2, 3]
+  return array
 end
